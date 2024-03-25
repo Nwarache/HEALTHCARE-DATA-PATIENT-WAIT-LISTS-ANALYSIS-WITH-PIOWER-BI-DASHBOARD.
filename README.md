@@ -119,6 +119,7 @@ The goal here is to share the dashboard with stakeholders and other users and ge
 
 
 RECOMMENDATIONS :
+
 After the succesful completion of the dashboard via the analyzed and transformed dataset obatined from the healthcare facility, below are some obserations and insights gathered :
 
 The increase in the current year’s waitlist to over 700,000 individuals, compared to the previous year’s 640,000, indicates a notable surge in demand for healthcare services. This growth of over 60,000 patients signifies a substantial uptick in the number of individuals seeking inpatient and outpatient care within the given timeframe. Several factors might contribute to this upsurge, such as population growth, changes in healthcare needs, extended referral times, or variations in healthcare policies impacting access to services,
