@@ -1,4 +1,4 @@
-# HEALTHCARE-DATA-PATIENT-WAIT-LISTS-ANALYSIS-WITH-PIOWER-BI-DASHBOARD.
+# HEALTHCARE DATA PATIENT WAIT LISTS ANALYS IS WITH PIOWER-BI
 
 This data analysis project on Power BI aimed at providing insight into the patient waiting list of an healthcare facility from the year 2018 - 2021. By analysing various aspect of the Patient data, we seek to identify trends in regards to inpatient and outpatient waiting list and patient day cases, make data driven understanding of the healthcare's performance and ultimately provide meaningful insights.
 
