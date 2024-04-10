@@ -3,7 +3,7 @@
 This data analysis project on Power BI aimed at providing insight into the patient waiting list of an healthcare facility from the year 2018 - 2021. By analysing various aspect of the Patient data, we seek to identify trends in regards to inpatient and outpatient waiting list and patient day cases, make data driven understanding of the healthcare's performance and ultimately provide meaningful insights.
 
 
-n this era of modern healthcare, managing patient waitlists for inpatient and outpatient is crucial. This project dives into the world of healthcare data visualization, exploring a Power BI dashboard designed to optimize patient waitlists. This project helps healthcare providers gain vital information to streamline patient flow, allocate resources effectively, and ultimately enhance the quality of care provided which will ultimately leading to improved healthcare outcomes and a better patient experience.
+In this era of modern healthcare, managing patient waitlists for inpatient and outpatient is crucial. This project dives into the world of healthcare data visualization, exploring a Power BI dashboard designed to optimize patient waitlists. This project helps healthcare providers gain vital information to streamline patient flow, allocate resources effectively, and ultimately enhance the quality of care provided which will ultimately leading to improved healthcare outcomes and a better patient experience.
 
 
 Dataset term definations :
@@ -108,6 +108,9 @@ How many Patient falls under which Case Type?
 How does the duration of hospital stays vary across different age groups of patients?
 What are the top 5 wait lists by specialty?
 What are the monthly trends observed among patients with different case types?
+
+![image](https://github.com/Nwarache/HEALTHCARE-DATA-PATIENT-WAIT-LISTS-ANALYSIS-WITH-PIOWER-BI-DASHBOARD./assets/161589821/833630b5-0b2a-4297-b71d-07565ea42190)
+
 
 Testing :
 
